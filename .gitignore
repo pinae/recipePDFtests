@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm
+.idea/
+
+# temporary files
+test.pdf
+
+# copyright problems
+texture-of-parchment-paper.jpg
+xirwen3U.*

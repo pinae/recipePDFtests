@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Matar Paneer",
+    "servings": "für 9 Personen",
+    "ingredients": [
+      ["34 g", "Stärke"],
+      ["108 g", "Ghee"],
+      ["450 g", "Zwiebeln"],
+      ["90 g", "Ingwer"],
+      ["45 g", "Knoblauch"],
+      ["2 EL", "Koriander"],
+      ["2 TL", "Kurkuma"],
+      ["34 g", "rote Chilischoten (je 5g)"],
+      ["2 EL", "Paprikapulver, edelsüß"],
+      ["450 g", "Tomaten"],
+      ["450 g", "Erbsen"],
+      ["2 TL", "Salz"],
+      ["4 TL", "Garam Masala"],
+      ["4 EL", "Koriandergrün"],
+      ["1 kg", "Paneer"]
+    ],
+    "description": [
+      "Den Paneer in kleine Würfel schneiden und mit Stärkemehl bestäuben. In einer beschichteten Pfanne 2 Essl. Ghee erhitzen, die Käsewürfel darin bei mittlerer Hitze leicht anbraten. Käse auf Küchenpapier abtropfen lassen.",
+      "Das restliche Butterschmalz in einen Brattopf (zu dem es einen Deckel gibt) geben und darin Zwiebeln, Knoblauch und Ingwer anbraten, dabei häufig rühren. Koriander, Kurkuma, Chili und Paprika einrühren, dann die Tomaten zugeben. Die Soße etwa 10 Minuten kochen lassen. Etwa 1/2 l heißes Wasser zugeben und die Soße aufkochen lassen, danach auf mittlerer Hitze zugedeckt 20 Minuten köcheln lassen, dabei gelegentlich umrühren.",
+      "Erbsen, Salz, den gebratenen Käse und eventuell noch etwas heißes Wasser hineingeben, noch einmal aufkochen lassen und weitere 15 Minuten bei kleiner Hitze schmoren. Den Herd abstellen, Garam Masala einrühren und das Gericht zugedeckt mindestens 1 Stunde ziehen lassen.",
+      "Vor dem Servieren mit frischem Koriander bestreuen."
+    ]
+  },
+  {
+    "title": "Paneer",
+    "servings": "für 1kg Käse",
+    "ingredients": [
+      ["8 l", "Milch"],
+      ["800 g",  "Schlagsahne"],
+      ["420 ml",  "Zitronensaft"]
+    ],
+    "description": [
+      "Die Milch mit der Sahne in einen großen Topf schütten und langsam bei mittlerer Hitze aufkochen. Dabei am Anfang ab und zu, später kräftig rühren, damit die Milch nicht anbrennt.",
+      "Sobald die Milch kocht, den Zitronensaft einrühren und so lange auf dem Herd lassen, bis sich die gelbliche, flüssige Molke von der weißen, flockigen Käsemasse trennt. Wenn die Milch nicht vollständig gerinnt, etwas mehr Zitronensaft zugeben und kurz weiter kochen.",
+      "Ein Sieb mit einem feinmaschigen Käsetuch ausschlagen und den Topf durch das Tuch abgießen. Wer Molke mag, kann sie auffangen und weiter verwenden.",
+      "Das Tuch von oben zusammendrehen und fest drücken, damit so viel Flüssigkeit wie möglich aus dem Käse abfließt. Danach das Tuch ausbreiten und zu einem rechteckigen Paket falten, um den Käse in eine Rechteckige Form zu pressen. Danach mit einem Brett von oben beschweren und über Nacht aushärten lassen."
+    ]
+  },
+  {
+    "title": "Chelow: Safran-Reis mit Tadik",
+    "servings": "für 9 Personen",
+    "ingredients": [
+      ["34 g", "Butter"],
+      ["270 ml", "Pflanzenöl"],
+      ["7", "Eigelb"],
+      ["540 g", "Joghurt"],
+      ["900 g", "Basmatireis"],
+      ["170 g", "Rosinen"]
+    ],
+    "description": [
+      "Wasser großzügig salzen und zum Kochen bringen. Währenddessen den Reis mit warmem Wasser abspülen, bis das Wasser unter dem Sieb ganz klar wird. Dann den gewaschenen Reis ins Wasser geben und gelegentlich umrühren, damit er nicht am Boden des Topfs anklebt.",
+      "Sobald Reiskörner zur Wasseroberfläche treiben den Reis probieren: Er sollte nicht mehr hart sein, aber etwas Biss haben. Das passiert nach 6 bis 8 Minuten. Danach den reis abgießen und mit kaltem Wasser abschrecken.",
+      "Währenddessen die Butter in einem Topf bei mittlerer Hitze schmelzen. Die Rosinen hinzugeben und bei gelegentlichem umrühren 2 Minuten braten. Danach von der Kochstelle nehmen und nach Bedarf mit Rosenwasser abschrecken.",
+      "Ofen auf 200°C vorheizen. Saffran mit Zucker mörsern und in 2 TL Wasser lösen. Danach 10 Minuten ziehen lassen.",
+      "Eigelbe extrahieren und mit dem Joghurt, dem Öl und 2 TL Salz vermischen. Safran-Wasser darüber geben und umrühren. Danach den Reis über der Joghurtmixtur verteilen und vorsichtig mischen, damit alle Reiskörner die Gelbe Farbe vom Safran annehmen.",
+      "Einen Topf mit Öl ausreiben und die Hälfte des gelben Reis darüber geben. Dann eine Schicht aus Rosinen darüber geben und zuletzt alles mit dem restlichen Reis bedecken. Alles von Oben zusammendrücken, damit der Kuchen später kompakter wird.",
+      "Anschließend 65 bis 80 Minuten backen, bis der Reis eine Goldbraune Farbe angenommen hat. Nach dem Backen für 10 Minuten zugedeckt abkühlen lassen. Danach mit einem Messer um die Ränder fahren, um sie vom Topf zu lösen. Dann einen Teller auf den Topf legen den Topf stürzen. Mit losen Rosinen garnieren."
+    ]
+  }
+]
