@@ -153,5 +153,71 @@
       "Kräuterblätter zum Garnieren hacken und mit Sesam und 9 EL Olivenöl mischen. Mit dem Joghurt und dem fein gebröckelten Feta verrühren und mit Salz, Pfeffer und Zitronenschale abschmecken.",
       "Auberginen mit Granatapfelstücken, Pistazien, Joghurtcreme und den Kräutern anrichten. Eventuell zusätzlichen Sesam dazu reichen."
     ]
+  },
+  {
+    "title": "Khoresh Bademjan",
+    "servings": "für 9 Personen",
+    "ingredients": [
+      ["17 ml", "Olivenöl"],
+      ["90 ml", "Pflanzenöl"],
+      ["96 g", "rote Zwiebeln"],
+      ["34 g", "Knoblauch"],
+      ["1,5 kg", "Aubergine"],
+      ["1 kg", "Saitan"],
+      ["34 g", "Tomatenmark"],
+      ["900 g", "geschälte Tomaten"],
+      ["34 ml", "Zitronensaft"]
+    ],
+    "description": [
+      "Den Saitan mit 5 Tassen wasser und Kurkuma in einen Gusstopf füllen und für 2 Stunden auf mittlerer Hitze köcheln.",
+      "Währenddessen die Auberginen schälen und schneiden. Größere Auberginen längs vierteln, kleinere in Scheiben schneiden. Danach die Auberginen in 8 EL Öl für 10 Minuten anbraten, bis ihr weißes Fruchtfleisch goldbraun wird. Danach aus der Pfanne nehmen und auf einem Küchentuch abtropfen lassen.",
+      "In der gleichen Pfanne 2 EL Öl ergänzen und die gehackten Zwiebeln für 10 bis 15 Minuten auf moderater Hitze goldbraun anschwitzen. Dann Tomatenmark, Knoblauch und Safran hinzugeben und für weitere 5 Minuten unter ständigem Rühren kochen.",
+      "Mit dem Saitan, den geschälten Tomaten und dem Zitronensaft alles kurz aufkochen. Danach die Auberginen hinzufügen und für weitere 30 bis 45 Minuten bei geringer Hitze köcheln lassen. Danach mit persischem Reis servieren."
+    ]
+  },
+  {
+    "title": "Kashk e Bademjan",
+    "servings": "für 9 Personen",
+    "ingredients": [
+      ["510 g", "Zwiebeln"],
+      ["150 g", "Knoblauch"],
+      ["2 kg", "Aubergine"],
+      ["45 ml", "Zitronensaft"],
+      ["135 g", "Kashk Paste"]
+    ],
+    "description": [
+      "Die Auberginen schälen und in Scheiben von etwa einem Zentimeter Dicke schneiden. Die Scheiben mit Salz bestreuen und sie eine halbe Stunde Wasser ziehen lassen.",
+      "In der Zwischenzeit Zwiebeln und den Knoblauch abziehen und fein würfeln.",
+      "Nach den 30 Minuten die Auberginen mit Küchentüchern abtupfen und in einer heißen Pfanne mit Öl goldbraun anbraten.",
+      "In einer separaten Pfanne die Zwiebeln glasig anschwitzen, den Knoblauch hinzugeben und beides auf geringer Hitze bräunen.",
+      "Danach beides in einen Topf mischen und zu Brei stampfen. Den Brei im Topf erwärmen und zwei bis drei EL Kashk-Paste darunter rühren. Den Zitronensaft hinzugeben und mit Salz, Pfeffer und Kurkuma abschmecken."
+    ]
+  },
+  {
+    "title": "Halloumi Korma",
+    "servings": "für 4 Personen",
+    "ingredients": [
+      ["750 g", "Halloumi"],
+      ["2 EL", "Koriander"],
+      ["1/8 TL", "gemahlener Kardamom"],
+      ["1/2 TL", "Cumin"],
+      ["1/2 TL", "Bockshornklee"],
+      ["4", "Nelken"],
+      ["1/2 Stange", "Zimt"],
+      ["4 EL", "Koriandergrün"],
+      ["20 g", "Ingwer"],
+      ["500 g", "Joghurt"],
+      ["400 g", "geschälte Tomaten"],
+      ["450 g", "Zwiebel"],
+      ["50 g", "Knoblauch"],
+      ["75 g", "Ghee"],
+      ["50 g", "Cashews"]
+    ],
+    "description": [
+      "Pfefferkörner, Kreuzkümmel, Bockshornklee und Koriander in einer trockenen Pfanne so lange rösten, bis es aromatisch duftet. Dann alles in einem Mörser mahlen. Knoblauch, weißen Mohn, Chilischote, Galgant, Wasser, Nelken, Safran, Zimt, Ingwer, 1-2 EL Salz und Cashewnüsse mit in den Mörser geben und zu einer dünnflüssigen Paste vermörsern. Eventuell Wasser hinzufügen.",
+      "Parallel den Halloumi in Würfel schneiden und anschließend für zwei Stunden in der Paste marinieren.",
+      "Danach die Zwiebeln schälen, klein würfeln und mit 5 EL Ghee bei hoher Hitze anbraten. Den Halloumi mitsamt Marinade bzw. Würzpaste dazugeben. Korianderblätter, Joghurt und Tomaten hinzufügen und bei großer Hitze aufkochen lassen. Dann die Hitze reduzieren und 30 bis 40 Minuten köcheln lassen.",
+      "Mit Reis und Fladen servieren. Am besten passen Chapati."
+    ]
   }
 ]
